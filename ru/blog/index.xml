@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://NasserMohamad262.github.io/ru/blog/</link>
+      <atom:link href="https://NasserMohamad262.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://NasserMohamad262.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://NasserMohamad262.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете была насыщенной и продуктивной. Каждый день приносил новые знания и интересные задачи, связанные с программированием и компьютерными науками.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; мы продолжили изучать алгоритмы и структуры данных. Я лучше понял, как эффективно решать задачи и оптимизировать код.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; обсуждали основы архитектуры компьютеров и принципы работы современных вычислительных систем.&lt;/li&gt;
+&lt;li&gt;📊 Работал над практическими заданиями, связанными с &lt;strong&gt;анализом данных&lt;/strong&gt;, и попробовал применить Python для обработки информации.&lt;/li&gt;
+&lt;li&gt;🌐 Изучал основы &lt;strong&gt;веб-разработки&lt;/strong&gt; и узнал больше о том, как создаются современные веб-приложения.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над групповым учебным проектом. Это помогло улучшить навыки командной работы и обмена идеями.&lt;/li&gt;
+&lt;li&gt;📚 Также уделил время самостоятельному изучению новых технологий и чтению материалов по искусственному интеллекту.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения помогает мне лучше понимать сферу &lt;strong&gt;компьютерных наук&lt;/strong&gt; и постепенно развивать навыки, необходимые для будущей карьеры в IT.&lt;/p&gt;
+&lt;p&gt;Надеюсь, следующая неделя будет такой же продуктивной и принесёт ещё больше новых знаний и опыта 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
