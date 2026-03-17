@@ -5,12 +5,52 @@
     <link>https://NasserMohamad262.github.io/ru/publications/</link>
       <atom:link href="https://NasserMohamad262.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://NasserMohamad262.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://NasserMohamad262.github.io/ru/publications/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это инструменты, которые позволяют структурировать текст с минимальным количеством синтаксических элементов. В отличие от сложных систем разметки, они просты в освоении и удобны для повседневного использования.&lt;/p&gt;
+&lt;h2 id=&#34;-что-это-такое&#34;&gt;⚙️ Что это такое&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки используются для форматирования текста без необходимости писать громоздкий код. Их основная цель — сделать текст одновременно читаемым как для человека, так и для компьютера.&lt;/p&gt;
+&lt;p&gt;Такие языки широко применяются в документации, блогах, системах контроля версий и даже в образовательных проектах.&lt;/p&gt;
+&lt;h2 id=&#34;-популярные-примеры&#34;&gt;📌 Популярные примеры&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — самый распространённый язык, используется в GitHub, блогах и системах документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — часто применяется в Python-проектах и технической документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — более расширяемый язык с поддержкой сложных структур документов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BBCode&lt;/strong&gt; — используется на форумах для форматирования сообщений.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества&#34;&gt;💡 Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Простота синтаксиса — легко читать и писать&lt;/li&gt;
+&lt;li&gt;⚡ Быстрое форматирование текста&lt;/li&gt;
+&lt;li&gt;🔄 Лёгкое преобразование в HTML и другие форматы&lt;/li&gt;
+&lt;li&gt;📚 Удобство для ведения документации&lt;/li&gt;
+&lt;li&gt;🌍 Широкая поддержка в различных платформах&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-где-применяются&#34;&gt;🚀 Где применяются&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Техническая документация&lt;/li&gt;
+&lt;li&gt;🧑‍💻 README-файлы проектов&lt;/li&gt;
+&lt;li&gt;🌐 Генераторы статических сайтов&lt;/li&gt;
+&lt;li&gt;📝 Заметки и личные базы знаний&lt;/li&gt;
+&lt;li&gt;🎓 Образовательные материалы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;📈 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Использование легковесных языков разметки позволяет сосредоточиться на содержании, а не на сложной структуре оформления. Это особенно важно в сфере IT, где скорость и удобство работы с текстом играют ключевую роль.&lt;/p&gt;
+&lt;p&gt;Они становятся стандартом де-факто для разработчиков, аналитиков и технических писателей, упрощая совместную работу и обмен информацией.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки — это простой, но мощный инструмент, который помогает эффективно организовывать знания и делиться ими 💻✨&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями</title>

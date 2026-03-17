@@ -5,12 +5,32 @@
     <link>https://NasserMohamad262.github.io/ru/blog/</link>
       <atom:link href="https://NasserMohamad262.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://NasserMohamad262.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://NasserMohamad262.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла в активной работе и постепенном углублении в ключевые темы моей специальности. Учебный процесс стал более интенсивным, но при этом ещё более интересным и осмысленным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; сосредоточился на решении более сложных задач. Особое внимание уделил оптимизации алгоритмов и анализу их эффективности.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; рассматривали принципы работы операционных систем и взаимодействие программ с аппаратным обеспечением.&lt;/li&gt;
+&lt;li&gt;📊 Продолжил работу с &lt;strong&gt;анализом данных&lt;/strong&gt; — практиковался в обработке и визуализации данных с использованием Python.&lt;/li&gt;
+&lt;li&gt;🌐 В рамках изучения &lt;strong&gt;веб-разработки&lt;/strong&gt; начал разбираться глубже в клиент-серверной архитектуре и работе с API.&lt;/li&gt;
+&lt;li&gt;🤝 Продвижение в групповом проекте стало заметнее: удалось распределить задачи более эффективно и прийти к общему решению по реализации.&lt;/li&gt;
+&lt;li&gt;📚 В свободное время изучал материалы по &lt;strong&gt;машинному обучению&lt;/strong&gt;, чтобы лучше понять базовые концепции и направления развития этой области.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась продуктивной: удалось не только закрепить уже изученное, но и сделать шаг вперёд в понимании более сложных тем. Постепенно формируется целостное представление о сфере &lt;strong&gt;компьютерных наук&lt;/strong&gt; и её практическом применении.&lt;/p&gt;
+&lt;p&gt;С интересом жду следующей недели — хочется продолжить этот темп и открыть для себя ещё больше новых возможностей 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
