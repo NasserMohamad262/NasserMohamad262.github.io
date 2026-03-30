@@ -5,12 +5,32 @@
     <link>https://NasserMohamad262.github.io/ru/tags/computer-science/</link>
       <atom:link href="https://NasserMohamad262.github.io/ru/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Computer Science</title>
       <link>https://NasserMohamad262.github.io/ru/tags/computer-science/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://NasserMohamad262.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла в ещё более интенсивном ритме, чем предыдущая. Учебная нагрузка выросла, но вместе с этим усилился интерес к изучаемым темам и появилось больше уверенности в своих знаниях.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; продолжил работу с алгоритмами, сосредоточившись на задачах, требующих нестандартного подхода и более глубокого анализа.&lt;/li&gt;
+&lt;li&gt;🧠 В рамках &lt;strong&gt;компьютерных наук&lt;/strong&gt; подробнее изучал управление памятью и процессы внутри операционных систем, что помогло лучше понять внутреннюю логику работы программ.&lt;/li&gt;
+&lt;li&gt;📊 В области &lt;strong&gt;анализа данных&lt;/strong&gt; закрепил навыки обработки данных и начал применять более сложные методы визуализации.&lt;/li&gt;
+&lt;li&gt;🌐 В изучении &lt;strong&gt;веб-разработки&lt;/strong&gt; сделал шаг вперёд — разобрался с принципами работы REST API и попробовал реализовать простое взаимодействие между клиентом и сервером.&lt;/li&gt;
+&lt;li&gt;🤝 Работа над групповым проектом стала более структурированной: команда начала действовать слаженно, а прогресс стал заметно быстрее.&lt;/li&gt;
+&lt;li&gt;📚 Дополнительно продолжил изучение &lt;strong&gt;машинного обучения&lt;/strong&gt;, уделив внимание основным алгоритмам и их практическому применению.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась насыщенной и полезной: удалось углубить понимание ключевых тем и применить знания на практике. Всё больше ощущается связь между различными направлениями в сфере &lt;strong&gt;компьютерных наук&lt;/strong&gt;, что делает обучение более целостным и осмысленным.&lt;/p&gt;
+&lt;p&gt;С нетерпением жду следующей недели — хочется сохранить этот темп и продолжить двигаться вперёд 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
