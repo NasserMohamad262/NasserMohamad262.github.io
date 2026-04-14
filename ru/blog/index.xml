@@ -5,12 +5,32 @@
     <link>https://NasserMohamad262.github.io/ru/blog/</link>
       <atom:link href="https://NasserMohamad262.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://NasserMohamad262.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://NasserMohamad262.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя стала логичным продолжением предыдущей, но с ещё большим упором на практику и самостоятельную работу. Темп остаётся высоким, однако всё больше задач удаётся решать увереннее и быстрее.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; углубился в работу со структурами данных, уделяя внимание эффективности алгоритмов и оптимизации решений.&lt;/li&gt;
+&lt;li&gt;🧠 В рамках &lt;strong&gt;компьютерных наук&lt;/strong&gt; продолжил изучение операционных систем, сосредоточившись на процессах планирования и взаимодействии потоков.&lt;/li&gt;
+&lt;li&gt;📊 В области &lt;strong&gt;анализа данных&lt;/strong&gt; попробовал применять методы статистического анализа на практике, что помогло лучше понять поведение данных.&lt;/li&gt;
+&lt;li&gt;🌐 В изучении &lt;strong&gt;веб-разработки&lt;/strong&gt; закрепил навыки работы с API и начал разбираться с обработкой запросов и ответов на более глубоком уровне.&lt;/li&gt;
+&lt;li&gt;🤝 Групповой проект продвинулся вперёд: удалось распределить задачи более эффективно, благодаря чему работа стала продуктивнее.&lt;/li&gt;
+&lt;li&gt;📚 В направлении &lt;strong&gt;машинного обучения&lt;/strong&gt; продолжил изучение алгоритмов, сделав акцент на их сравнении и выборе подходящих решений для разных задач.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась продуктивной: знания постепенно систематизируются, а практика помогает лучше закреплять материал. Всё отчётливее видно, как разные области взаимосвязаны и дополняют друг друга.&lt;/p&gt;
+&lt;p&gt;Настроен сохранить текущий ритм и продолжать развиваться дальше 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

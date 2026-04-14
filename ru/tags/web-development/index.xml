@@ -5,12 +5,62 @@
     <link>https://NasserMohamad262.github.io/ru/tags/web-development/</link>
       <atom:link href="https://NasserMohamad262.github.io/ru/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Development</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://NasserMohamad262.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Web Development</title>
       <link>https://NasserMohamad262.github.io/ru/tags/web-development/</link>
     </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://NasserMohamad262.github.io/ru/projects/hugo/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://NasserMohamad262.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт для научного работника — это не просто визитка, а полноценный инструмент для представления своих исследований, публикаций и профессиональных достижений. Одним из удобных решений для создания такого сайта является фреймворк &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; — это готовая тема для генератора статических сайтов Hugo, ориентированная на исследователей, преподавателей и студентов. Она позволяет быстро создать структурированный и современный сайт без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;p&gt;С её помощью можно легко оформить:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 список публикаций;&lt;/li&gt;
+&lt;li&gt;🎓 информацию об образовании и опыте;&lt;/li&gt;
+&lt;li&gt;🔬 текущие исследования и проекты;&lt;/li&gt;
+&lt;li&gt;📝 блог с научными заметками;&lt;/li&gt;
+&lt;li&gt;📬 контакты и ссылки на профили.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества-использования&#34;&gt;🛠️ Преимущества использования&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic даёт ряд важных преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Высокая скорость&lt;/strong&gt; — сайт генерируется как статический, что обеспечивает быструю загрузку страниц.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Гибкость&lt;/strong&gt; — можно настраивать структуру и внешний вид под свои задачи.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Поддержка Markdown&lt;/strong&gt; — упрощает написание и редактирование контента.&lt;/li&gt;
+&lt;li&gt;🔒 &lt;strong&gt;Надёжность&lt;/strong&gt; — отсутствие серверной логики снижает уязвимости.&lt;/li&gt;
+&lt;li&gt;📱 &lt;strong&gt;Адаптивность&lt;/strong&gt; — сайт корректно отображается на любых устройствах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-как-начать&#34;&gt;🚀 Как начать&lt;/h2&gt;
+&lt;p&gt;Процесс создания сайта включает несколько шагов:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить генератор статических сайтов Hugo.&lt;/li&gt;
+&lt;li&gt;Скачать и подключить тему Academic.&lt;/li&gt;
+&lt;li&gt;Настроить конфигурационный файл.&lt;/li&gt;
+&lt;li&gt;Добавить информацию о себе, публикациях и проектах.&lt;/li&gt;
+&lt;li&gt;Развернуть сайт на хостинге (например, GitHub Pages).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Даже базовой настройки достаточно, чтобы получить профессионально выглядящий сайт.&lt;/p&gt;
+&lt;h2 id=&#34;-практическая-ценность&#34;&gt;📈 Практическая ценность&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;повысить видимость научной работы;&lt;/li&gt;
+&lt;li&gt;структурировать результаты исследований;&lt;/li&gt;
+&lt;li&gt;упростить коммуникацию с коллегами;&lt;/li&gt;
+&lt;li&gt;создать личный бренд в академической среде.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🎯 Итог&lt;/h2&gt;
+&lt;p&gt;Создание сайта научного работника с помощью Hugo Academic — это эффективный способ представить себя в профессиональном сообществе. Простота использования и широкие возможности настройки делают его отличным выбором как для начинающих, так и для опытных исследователей.&lt;/p&gt;
+&lt;p&gt;Такой сайт становится не только портфолио, но и активным инструментом для развития научной карьеры 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
